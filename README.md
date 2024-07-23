@@ -99,3 +99,4 @@ Some of the technologies used in the development of this web application are as 
 -   [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/): A popular framework for building responsive, mobile-first sites.
 
 It can be noted that React can be swapped out in favor of any other popular frontend framework like Vue, Angular, Svelte or Ember. The server side can be implemented using Deno/Koa, flask/Django and similarly the data can also be modelled using the similar idea but with a SQL type DB like PS-SQL or MSSQL.
+# BloggingApplication
